@@ -41,8 +41,8 @@ This is the current plan for my journey with Kyma:
 
 | Episode        |  GitHub  | YouTube | 
 |----------------|-----------|-----------|
-| 0              | [Introduction & Prerequisites](https://github.com/lechnerc77/learningKyma/epsiode0/Episode0.md) | [Link](https://youtu.be/wqQflgmyboY) |
-| 1              | [Setting Up Managed Kyma & Kubernetes/Kyma Basics](https://github.com/lechnerc77/learningKyma/epsiode0/Episode1.md) | [Link](https://youtu.be/uhkbbH7oS5g) |
+| 0              | [Introduction & Prerequisites](https://github.com/lechnerc77/learningKyma/blob/main/episode0/Episode0.md) | [Link](https://youtu.be/wqQflgmyboY) |
+| 1              | [Setting Up Managed Kyma & Kubernetes/Kyma Basics](https://github.com/lechnerc77/learningKyma/blob/main/episode1/Episode1.md) | [Link](https://youtu.be/uhkbbH7oS5g) |
 | 2              | [Deploying a sample app](https://github.com/lechnerc77/learningKyma) | TBD |
 | 3              | [Deploying Azure Functions + Limitation with KEDA](https://github.com/lechnerc77/learningKyma) | TBD |
 | 4              | [Install Commerce Mock & Create Function Extension](https://github.com/lechnerc77/learningKyma) | TBD |
