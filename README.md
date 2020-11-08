@@ -43,12 +43,13 @@ This is the current plan for my journey with Kyma:
 |----------------|-----------|-----------|
 | 0              | [Introduction & Prerequisites](https://github.com/lechnerc77/learningKyma/blob/main/episode0/Episode0.md) | [Link](https://youtu.be/wqQflgmyboY) |
 | 1              | [Setting Up Managed Kyma & Kubernetes/Kyma Basics](https://github.com/lechnerc77/learningKyma/blob/main/episode1/Episode1.md) | [Link](https://youtu.be/uhkbbH7oS5g) |
-| 2              | [Deploying a sample app](https://github.com/lechnerc77/learningKyma) | TBD |
+| 2              | [Deploying a sample app](https://github.com/lechnerc77/learningKyma/blob/main/episode2/Episode2.md) | [Link](https://youtu.be/HG-N96Ze1LA)] |
 | 3              | [Deploying Azure Functions + Limitation with KEDA](https://github.com/lechnerc77/learningKyma) | TBD |
 | 4              | [Install Commerce Mock & Create Function Extension](https://github.com/lechnerc77/learningKyma) | TBD |
 | 5              | [Securing your endpoints via OAuth](https://github.com/lechnerc77/learningKyma) | TBD |
 | 6              | [Consuming resources via Open Service Broker](https://github.com/lechnerc77/learningKyma) | TBD |
-| 7              | TBD | TBD |
+| 7              | [Scaling and Autoscaling](https://github.com/lechnerc77/learningKyma) | TBD |
+| 8              | TBD | TBD |
 
 So let us get the journey started 🚀
 
