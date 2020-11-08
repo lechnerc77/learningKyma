@@ -4,7 +4,7 @@
 Deploy a sample app to Kyma on SAP Cloud Platform Trial and first play around a bit 
 
 ## Session on YouTube
-You find this session on YouTube here: [Link](https://youtu.be/HG-N96Ze1LA)
+You find this session on YouTube here: [Link]()
 
 ## References
 

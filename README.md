@@ -34,7 +34,7 @@ I aim to publish episodes regularly. Whenever a new episode is available I will 
 * [LinkedIn](https://www.linkedin.com/in/christian-lechner-963b7017)
 * [This repo](https://github.com/lechnerc77/learningKyma)
 
-So follow me on any of the above channels (or on all of them 😏) and you will get notified.
+So follow me on any of the above channels (or on all of them 😏) and you will get notified...
 
 ## Overview of Episodes (planned)
 This is the current plan for my journey with Kyma: 
@@ -43,7 +43,7 @@ This is the current plan for my journey with Kyma:
 |----------------|-----------|-----------|
 | 0              | [Introduction & Prerequisites](https://github.com/lechnerc77/learningKyma/blob/main/episode0/Episode0.md) | [Link](https://youtu.be/wqQflgmyboY) |
 | 1              | [Setting Up Managed Kyma & Kubernetes/Kyma Basics](https://github.com/lechnerc77/learningKyma/blob/main/episode1/Episode1.md) | [Link](https://youtu.be/uhkbbH7oS5g) |
-| 2              | [Deploying a sample app](https://github.com/lechnerc77/learningKyma/blob/main/episode2/Episode2.md) | [Link](https://youtu.be/HG-N96Ze1LA)] |
+| 2              | [Deploying a sample app](https://github.com/lechnerc77/learningKyma/blob/main/episode2/Episode2.md) | [Link]() |
 | 3              | [Deploying Azure Functions + Limitation with KEDA](https://github.com/lechnerc77/learningKyma) | TBD |
 | 4              | [Install Commerce Mock & Create Function Extension](https://github.com/lechnerc77/learningKyma) | TBD |
 | 5              | [Securing your endpoints via OAuth](https://github.com/lechnerc77/learningKyma) | TBD |
