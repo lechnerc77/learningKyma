@@ -4,7 +4,7 @@
 Deploy a sample app to Kyma on SAP Cloud Platform Trial and first play around a bit 
 
 ## Session on YouTube
-You find this session on YouTube here: [Link]()
+You find this session on YouTube here: [Link](https://youtu.be/ypRgpicgqqQ)
 
 ## References
 
@@ -24,3 +24,4 @@ You find this session on YouTube here: [Link]()
     * [Expose Pod Information](https://kubernetes.io/docs/tasks/inject-data-application/environment-variable-expose-pod-information/)
     * [Access Environment information in C#](https://docs.microsoft.com/en-us/dotnet/api/system.environment.getenvironmentvariable?view=netcore-3.1)
 * [Istio](https://istio.io/latest/docs/concepts/what-is-istio/)
+* [Helm](https://helm.sh/)
