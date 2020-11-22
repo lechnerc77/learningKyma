@@ -47,13 +47,14 @@ This is the current plan for my journey with Kyma:
 | 3a             | [Deploying an Azure Function to Kyma](https://github.com/lechnerc77/learningKyma/blob/main/episode3/Episode3.md) | [Link](https://youtu.be/Jr4QHOq_XvI) |
 | 3b             | [The Horizontal Pod Autoscaler and KEDA](https://github.com/lechnerc77/learningKyma/blob/main/episode3/Episode3.md) | [Link](https://youtu.be/wH2rIADfdoE) |
 | 3c             | [Cleaning up Resources](https://github.com/lechnerc77/learningKyma/blob/main/episode3/Episode3.md) | [Link](https://youtu.be/VIWW4Si5Sa8) |
-| 4              | [Install Commerce Mock & Create Function Extension](https://github.com/lechnerc77/learningKyma) | TBD |
-| 5              | [Securing your endpoints via OAuth](https://github.com/lechnerc77/learningKyma) | TBD |
-| 6              | [Consuming resources via Open Service Broker](https://github.com/lechnerc77/learningKyma) | TBD |
-| 7              | [Scaling and Autoscaling](https://github.com/lechnerc77/learningKyma) | TBD |
-| 8              | TBD | TBD |
+| 4              | [Install Commerce Mock & Create Function Extension](https://github.com/lechnerc77/learningKyma/blob/main/episode4/Episode4.md) | [Link](https://youtu.be/r9mlTXHfnNM)] |
 
 So let us get the journey started 🚀
+
+## Further Backlog
+* Securing your endpoints via OAuth
+* Consuming resources via Open Service Broker
+* [Azure Logic Apps on Kyma](https://docs.microsoft.com/en-us/azure/logic-apps/create-stateful-stateless-workflows-visual-studio-code#deploy-to-docker-container)
 
 ## How to give feedback and contribute?
 Certainly I will miss things or maybe overlook something. I am happy to receive feedback via issues in this [GitHub repository](https://github.com/lechnerc77/learningKyma). You can also propose new topics this way.
