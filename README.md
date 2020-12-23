@@ -54,14 +54,14 @@ This is the current plan for my journey with Kyma:
 | 3a             | [Deploying an Azure Function to Kyma](https://github.com/lechnerc77/learningKyma/blob/main/episode3/Episode3.md) | [Link](https://youtu.be/Jr4QHOq_XvI) |
 | 3b             | [The Horizontal Pod Autoscaler and KEDA](https://github.com/lechnerc77/learningKyma/blob/main/episode3/Episode3.md) | [Link](https://youtu.be/wH2rIADfdoE) |
 | 3c             | [Cleaning up Resources](https://github.com/lechnerc77/learningKyma/blob/main/episode3/Episode3.md) | [Link](https://youtu.be/VIWW4Si5Sa8) |
-| 4              | [Install Commerce Mock & Create Function Extension](https://github.com/lechnerc77/learningKyma/blob/main/episode3/Episode4.md) | [Link](https://youtu.be/r9mlTXHfnNM) |
-| 5              | [Walk Through developers.sap.com Tutorial](https://github.com/lechnerc77/learningKyma/blob/main/episode3/Episode5.md) | [Link](https://youtu.be/so21o-smkys) |
+| 4              | [Install Commerce Mock & Create Function Extension](https://github.com/lechnerc77/learningKyma/blob/main/episode4/Episode4.md) | [Link](https://youtu.be/r9mlTXHfnNM) |
+| 5              | [Walk Through developers.sap.com Tutorial](https://github.com/lechnerc77/learningKyma/blob/main/episode5/Episode5.md) | [Link](https://youtu.be/so21o-smkys) |
+| 6              | [A bit about Security in Kyma](https://github.com/lechnerc77/learningKyma/blob/main/episode6/Episode6.md) | [Link](https://youtu.be/psaBBYeMAeo) |
 
 So let us get the journey started 🚀
 
 ## Further Backlog
 
-* Securing your endpoints via OAuth
 * Logging + monitoring
 * Consuming resources via Open Service Broker
 * [Azure Logic Apps on Kyma](https://docs.microsoft.com/en-us/azure/logic-apps/create-stateful-stateless-workflows-visual-studio-code#deploy-to-docker-container)
