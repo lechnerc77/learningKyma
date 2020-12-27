@@ -36,7 +36,7 @@ You find this session on YouTube here: [Link](https://youtu.be/psaBBYeMAeo)
   * [What the Heck is OAuth? - OAuth Flows](https://developer.okta.com/blog/2017/06/21/what-the-heck-is-oauth#oauth-flows)
 * [Welcome to OpenID Connect](https://openid.net/connect/)
 
-### Securing API endpoints with Kyma
+### References
 
 * [API Gateway](https://kyma-project.io/docs/components/api-gateway/)
   * [API Rule](https://kyma-project.io/docs/components/api-gateway#custom-resource-api-rule)
@@ -50,3 +50,4 @@ You find this session on YouTube here: [Link](https://youtu.be/psaBBYeMAeo)
 * [Kyma for Dymmies [2]: First Simple Microservice with Security](https://blogs.sap.com/2020/12/10/kyma-for-dymmies-2-first-simple-microservice-with-security/)
 * [Kyma for Dymmies [3]: calling secured service with REST client](https://blogs.sap.com/2020/12/14/kyma-for-dymmies-3-calling-secured-service-with-rest-client/)
 * [GitHub repository with source code for Kyma for Dymmies blog posts 2 + 3](https://github.com/lechnerc77/kyma_for_dymmies_2_and_3)
+* Example with JWT and Allowed Authenticators using CAP by Gregor Wolf: [Authenticate to a CAP service using Azure AD B2C](https://github.com/gregorwolf/cap-azure-ad-b2c) - [Deploy to Kyma](https://github.com/gregorwolf/cap-azure-ad-b2c#deploy-to-kyma)
