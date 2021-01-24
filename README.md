@@ -57,13 +57,13 @@ This is the current plan for my journey with Kyma:
 | 4              | [Install Commerce Mock & Create Function Extension](https://github.com/lechnerc77/learningKyma/blob/main/episode4/Episode4.md) | [Link](https://youtu.be/r9mlTXHfnNM) |
 | 5              | [Walk Through developers.sap.com Tutorial](https://github.com/lechnerc77/learningKyma/blob/main/episode5/Episode5.md) | [Link](https://youtu.be/so21o-smkys) |
 | 6              | [A bit about Security in Kyma](https://github.com/lechnerc77/learningKyma/blob/main/episode6/Episode6.md) | [Link](https://youtu.be/psaBBYeMAeo) |
+| 7              | [Function Deep Dive](https://github.com/lechnerc77/learningKyma/blob/main/episode7/Episode7.md) | [Link](https://youtu.be/dT2oa8ydQYQ) |
 
 So let us get the journey started 🚀
 
 ## Further Backlog
 
 * Logging + monitoring
-* Consuming resources via Open Service Broker
 * [Azure Logic Apps on Kyma](https://docs.microsoft.com/en-us/azure/logic-apps/create-stateful-stateless-workflows-visual-studio-code#deploy-to-docker-container)
 
 ## How to give feedback and contribute?

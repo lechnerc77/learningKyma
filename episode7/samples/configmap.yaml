@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: configforfunction
+  labels:
+    app: configforfunction
+data:
+  configone: Some_Configuration
+  baseurl: https://kyma-project.io/
