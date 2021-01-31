@@ -1,4 +1,4 @@
-# Learning Kyma 
+# Learning Kyma
 
 ## Motivation
 
@@ -46,7 +46,7 @@ So follow me on any of the above channels (or on all of them 😏) and you will 
 
 This is the current plan for my journey with Kyma: 
 
-| Episode        |  GitHub  | YouTube | 
+| Episode        |  GitHub  | YouTube |
 |----------------|-----------|-----------|
 | 0              | [Introduction & Prerequisites](https://github.com/lechnerc77/learningKyma/blob/main/episode0/Episode0.md) | [Link](https://youtu.be/wqQflgmyboY) |
 | 1              | [Setting Up Managed Kyma & Kubernetes/Kyma Basics](https://github.com/lechnerc77/learningKyma/blob/main/episode1/Episode1.md) | [Link](https://youtu.be/uhkbbH7oS5g) |
@@ -58,7 +58,7 @@ This is the current plan for my journey with Kyma:
 | 5              | [Walk Through developers.sap.com Tutorial](https://github.com/lechnerc77/learningKyma/blob/main/episode5/Episode5.md) | [Link](https://youtu.be/so21o-smkys) |
 | 6              | [A bit about Security in Kyma](https://github.com/lechnerc77/learningKyma/blob/main/episode6/Episode6.md) | [Link](https://youtu.be/psaBBYeMAeo) |
 | 7              | [Function Deep Dive](https://github.com/lechnerc77/learningKyma/blob/main/episode7/Episode7.md) | [Link](https://youtu.be/dT2oa8ydQYQ) |
-| 8              | [Function Deep Dive - Part II](https://github.com/lechnerc77/learningKyma/blob/main/episode8/Episode8.md) | [Link]https://youtu.be/vELn8wyutxs) |
+| 8              | [Function Deep Dive - Part II](https://github.com/lechnerc77/learningKyma/blob/main/episode8/Episode8.md) | [Link](https://youtu.be/vELn8wyutxs) |
 
 So let us get the journey started 🚀
 
